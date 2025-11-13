@@ -28,20 +28,24 @@
 4. Division
 5. Show History
 6. Exit
-   Choose an option (1-6): 1
+   
+Choose an option (1-6): 1
 
-   Enter any two numbers for addition!
-   Enter The Number Here: 25.5
-   Enter The Number Here: 10
-   25.50 + 10.00 = 35.50
+Enter any two numbers for addition!
 
-   Back to menu...
+Enter The Number Here: 25.5
+
+Enter The Number Here: 10
+
+25.50 + 10.00 = 35.50
+
+Back to menu...
 
 - ***Try entering letters, dividing by zero, or multiplying huge numbers — it handles everything gracefully!***
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Java 8+**
 - **Core Java**: `Scanner`, `LinkedList`, `Exception`
@@ -51,15 +55,11 @@
 
 ## 📜 Project Structure
 
-**src/
-
-└── ***io/github/mubashirahmed7/customcalculator/***
-
-    ├── CustomCalculator.java     Main entry & menu
-
-    ├── CustomCalc.java           Core logic + history
-
-    └── MyCusCalcException.java   Custom exception**
+    *src/
+        └── io/github/mubashirahmed7/customcalculator/
+            ├── CustomCalculator.java     Main entry & menu
+            ├── CustomCalc.java           Core logic + history
+            └── MyCusCalcException.java   Custom exception
 
 ---
 
@@ -69,7 +69,7 @@
 
 ---
 
-## License
+## 📄 License
 
 - This project is open source and available under the MIT License.
 
@@ -77,4 +77,4 @@
 
 ## 🤝 Contributing
 
-- Pull requests are welcome!
+-  Contributions are welcome via Pull Requests.
