@@ -1,6 +1,6 @@
 # Custom Calculator 🧮
 
-- A **menu-driven calculator** in **Java** with **custom exceptions**, **input validation**, **division-by-zero protection**, and **calculation history**.
+- ***A **menu-driven calculator** in **Java** with **custom exceptions**, **input validation**, **division-by-zero protection**, and **calculation history*****.
 
 - ***Built to demonstrate **robust error handling**, **OOP**, and **user-friendly CLI apps*****.
 
@@ -21,7 +21,7 @@
 
 ## 🖥️ Demo
 
-- [Calculator Menu:]
+**Calculator Menu:**
 1. Addition
 2. Subtraction
 3. Multiplication
@@ -30,12 +30,12 @@
 6. Exit
    Choose an option (1-6): 1
 
-Enter any two numbers for addition!
-Enter The Number Here: 25.5
-Enter The Number Here: 10
-25.50 + 10.00 = 35.50
+   Enter any two numbers for addition!
+   Enter The Number Here: 25.5
+   Enter The Number Here: 10
+   25.50 + 10.00 = 35.50
 
-[Back to menu...]
+   Back to menu...
 
 - ***Try entering letters, dividing by zero, or multiplying huge numbers — it handles everything gracefully!***
 
@@ -52,9 +52,13 @@ Enter The Number Here: 10
 ## 📜 Project Structure
 
 **src/
+
 └── ***io/github/mubashirahmed7/customcalculator/***
+
     ├── CustomCalculator.java     Main entry & menu
+
     ├── CustomCalc.java           Core logic + history
+
     └── MyCusCalcException.java   Custom exception**
 
 ---
@@ -73,4 +77,4 @@ Enter The Number Here: 10
 
 ## 🤝 Contributing
 
-- Pull requests are welcome! For major changes, please open an issue first.
+- Pull requests are welcome!
